@@ -1,7 +1,5 @@
 # Jeu de la vie
 
----
-
 ## Présentation
 Le jeu de la vie est un algorithme très simple et très connu, qui consiste à observer l'évolution de cellules dans un univers au règle assez simple.
 
